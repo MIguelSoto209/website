@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fromsneakerstosharp.com/sitemap.xml
