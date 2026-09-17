@@ -41,7 +41,7 @@ without a network connection to Google Fonts.
    Pages source uses).
 2. In the repo's **Settings → Pages**, set the source to that branch, root
    folder.
-3. The `CNAME` file already points at `fromsneakerstosharp.com`. Make sure
+3. The `CNAME` file already points at `sneakerstosharp.com`. Make sure
    your domain's DNS has the appropriate A/ALIAS/CNAME records pointing at
    GitHub Pages (see GitHub's "Managing a custom domain" docs).
 
